@@ -1,9 +1,9 @@
 
-LC2 BlueWallet – Privacy Policy
+LC2 ProWallet – Privacy Policy
 
 Last updated: April 2026
 
-LC2 BlueWallet respects your privacy. This privacy policy explains how we handle information when you use the app.
+LC2 ProWallet respects your privacy. This privacy policy explains how we handle information when you use the app.
 
 #
 
@@ -25,7 +25,7 @@ The app operates entirely on your device, without any central servers.
 Your wallet, private keys, and transaction data are stored locally on your device and never leave it.
 Only you have access to your funds and keys.
 
-LC2 BlueWallet connects directly to the LC2 blockchain or Electrum servers you configure, purely to retrieve blockchain data or broadcast transactions.
+LC2 ProWallet connects directly to the LC2 blockchain or Electrum servers you configure, purely to retrieve blockchain data or broadcast transactions.
 
 #
 
@@ -48,7 +48,7 @@ Since we do not collect data, there's no personal information to protect. Howeve
 
 5. Your Consent
 
-By using the LC2 BlueWallet, you confirm your understanding that the app is non-custodial and does not collect or process personal information.
+By using the LC2 ProWallet, you confirm your understanding that the app is non-custodial and does not collect or process personal information.
 
 #
 
@@ -67,6 +67,6 @@ If you have any questions, feel free to reach out:
 #
 
 
-> Note: LC2 BlueWallet is open-source and based on the BlueWallet project. You can view the source code at their [GitHub link](https://github.com/BlueWallet/BlueWallet).
+> Note: LC2 ProWallet is open-source and based on the BlueWallet project. You can view the source code at their [GitHub link](https://github.com/BlueWallet/BlueWallet).
 
 
